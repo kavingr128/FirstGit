@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28787" started-at="2019-07-19T05:30:07Z" finished-at="2019-07-19T05:30:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28787" started-at="2019-07-19T05:30:07Z" finished-at="2019-07-19T05:30:36Z">
+      <class name="GitTest.GitTest">
+        <test-method status="PASS" signature="bing()[pri:0, instance:GitTest.GitTest@2b98378d]" name="bing" duration-ms="28734" started-at="2019-07-19T11:00:07Z" finished-at="2019-07-19T11:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+      </class> <!-- GitTest.GitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
